@@ -97,6 +97,9 @@ AWS · GCP · Agile/Scrum
 
 🧩 My kind of problem
 
+🧩 My kind of problem
+
+```cpp
 while (alive) {
     code();
     debug();
@@ -107,6 +110,7 @@ while (alive) {
     else
         repeat();
 }
+```
 
 <div align="center">
 
