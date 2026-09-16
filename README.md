@@ -34,10 +34,10 @@ Currently exploring backend systems, data engineering and AI.
         ┌──────────────────────────────────────────┐
         │                                          │
         │       Backend        →     APIs          │
-        │          ↓                         ↓     │
+        │       ↓                    ↓             │
         │       Data           →     Pipelines     │
-        │          ↓                         ↓     │
-        │         AI            →     RAG / LLMs   │
+        │       ↓                    ↓             │
+        │       AI            →      RAG / LLMs    │
         │                                          │
         └──────────────────────────────────────────┘
 
@@ -50,32 +50,50 @@ I enjoy working where code + data + AI come together.
 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" /> C++ &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /> Python &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> JavaScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /> HTML5 &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /> CSS3
 </p>
 
 ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> Node.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" /> Express.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" /> Flask &nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" /> FastAPI &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /> MongoDB
 </p>
 
-REST APIs · WebSockets · JWT · Authentication · API Integration
+REST APIs · WebSockets · JWT · Authentication · API Integration · Error Handling
 
 🤖 AI / Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" title="LangChain" /> LangChain &nbsp;
+<img src="https://skillicons.dev/icons?i=pinecone" alt="Pinecone" title="Pinecone" /> Pinecone &nbsp;
+<img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" /> SQL &nbsp;
+<img src="https://skillicons.dev/icons?i=databricks" alt="Databricks" title="Databricks" /> Databricks &nbsp;
 </p>
 
-LangChain · Google Gemini · Pinecone · RAG · Embeddings · Semantic Search
+LangChain · Pinecone · RAG · LLMs · Embeddings · Semantic Search · Prompt Engineering 
 
-SQL · PySpark · Apache Spark · Databricks · ETL · Data Pipelines
+· SQL · PySpark · Databricks 
 
 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> GitHub &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /> Docker &nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /> Linux &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /> Postman &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> VS Code
 </p>
+
+AWS · GCP · Agile/Scrum
 
 🧩 My kind of problem
 
@@ -91,8 +109,6 @@ while (alive) {
 }
 
 <div align="center">
-
-⚡ 800+ DSA Problems Solved
 
 <a href="https://leetcode.com/u/hey_dev/">
   <img src="https://img.shields.io/badge/LeetCode-hey__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
