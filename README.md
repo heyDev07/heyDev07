@@ -78,9 +78,9 @@ REST APIs · WebSockets · JWT · Authentication · API Integration · Error Han
   <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
 </p>
 
-LangChain · Pinecone · RAG · LLMs · Embeddings · Semantic Search · Prompt Engineering 
+· RAG · LLMs · Embeddings · Semantic Search · Prompt Engineering 
 
-· SQL · PySpark · Databricks 
+· PySpark
 
 🧰 Tools
 
