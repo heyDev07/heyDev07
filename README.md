@@ -1,176 +1,123 @@
 <div align="center">
 
-# Hi, I'm Dev Agarwal 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hey,%20I'm%20Dev%20Agarwal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20.%20Music%20.%20Repeat.&descAlignY=58&descSize=18" />
 
-### Software Engineer • Backend • Data & AI
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%9B%A0%EF%B8%8F;Backend+%26+AI+Builder+%F0%9F%A4%96;Competitive+Programmer+%E2%9A%A1;Turning+coffee+into+code+%E2%98%95;Coding+with+music+on+%F0%9F%8E%A7;Probably+debugging+something...+%F0%9F%90%9B" alt="Typing SVG" />
+</a>
 
-Building backend systems, data workflows, and AI-powered applications.
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/dev-agarwal-lnmiit/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:295devraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/hey_dev/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://github.com/heyDev07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/heyDev07">
+  <img src="https://komarev.com/ghpvc/?username=heyDev07&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+</a>
 
 </div>
 
----
+🧑‍💻 A little about me
 
-## 👨‍💻 About Me
+🎓 LNMIIT
+💻 I love building things that actually work
+🧠 DSA + Backend + AI
+⚡ Always up for a good coding problem
+🎧 Usually coding with music in the background
+☕ Coffee is optional. Debugging isn't.
 
-- 🎓 CCE graduate from **LNMIIT, Jaipur**
-- 💻 Interested in **Backend Engineering, Data Engineering & AI**
-- 🤖 Built production-oriented **RAG and Generative AI applications**
-- 🧩 Strong foundation in **DSA, OOP, DBMS, OS & Computer Networks**
-- 📊 Experienced with **Python, SQL, ETL and data processing**
-- 🚀 Built applications handling **1,000+ daily transactions**
-- 🧠 Solved **800+ DSA problems**
-- 🌱 Currently deepening my knowledge of **Data Engineering and scalable backend systems**
-- 📍 Open to opportunities across India
+I like taking an idea, breaking it down, and turning it into something people can actually use.
 
----
+Currently exploring backend systems, data engineering and AI.
 
-## 🛠️ Tech Stack
+⚡ What I enjoy building
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
+        ┌──────────────────────────────────────────┐
+        │                                          │
+        │       Backend        →     APIs          │
+        │          ↓                         ↓     │
+        │       Data           →     Pipelines     │
+        │          ↓                         ↓     │
+        │         AI            →     RAG / LLMs   │
+        │                                          │
+        └──────────────────────────────────────────┘
 
-### Backend & APIs
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
-</p>
+I enjoy working where code + data + AI come together.
 
-### Frontend
+🛠️ Things I actually use
+
+💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
 </p>
 
-### Databases & Data
+⚙️ Backend & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Pipelines-4B5563?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb" />
 </p>
 
-### Generative AI
+REST APIs · WebSockets · JWT · Authentication · API Integration
+
+🤖 AI / Data
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-6B46C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-6B7280?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Semantic_Search-6B7280?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6B7280?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Cloud & Tools
+LangChain · Google Gemini · Pinecone · RAG · Embeddings · Semantic Search
+
+SQL · PySpark · Apache Spark · Databricks · ETL · Data Pipelines
+
+🧰 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
 
----
+🧩 My kind of problem
 
-## 🚀 Featured Projects
+while (alive) {
+    code();
+    debug();
+    learn();
 
-### 🎓 T&P Cell Portal — AI-Assisted Placement Platform
+    if (works)
+        ship();
+    else
+        repeat();
+}
 
-An AI-powered placement platform designed to help students understand how closely their resume matches the profiles of students previously selected by different companies.
+<div align="center">
 
-**What I built:**
+⚡ 800+ DSA Problems Solved
 
-- Resume processing and document parsing pipeline
-- Embedding generation and semantic retrieval
-- Resume similarity analysis using **Pinecone**
-- AI-powered resume feedback and placement insights
-- Backend APIs using **Flask**
-- Frontend using **React**
-- Data storage using **MongoDB**
-- Processed **500+ resumes**
-- Deployed on **Vercel**
-- Used by **100+ users**
+<a href="https://leetcode.com/u/hey_dev/">
+  <img src="https://img.shields.io/badge/LeetCode-hey__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-🔗 **Live:** https://btp-client.vercel.app/
+</div>
 
----
+🎧 Coding soundtrack
 
-### 💬 QuirkApp — Real-Time Chat Application
+Some problems need logic.
+Some need patience.
+Some just need the right song.
 
-A real-time messaging application built with a focus on persistent conversations and responsive communication.
+<div align="center">
 
-**Highlights:**
+████████████████████████████████████████ 100%
 
-- Real-time messaging using **Socket.io**
-- REST APIs using **Node.js & Express**
-- Persistent conversations with **MongoDB**
-- Secure authentication using **bcrypt**
-- Google OAuth using **Firebase**
-- Environment-based configuration
-- CORS-secured backend
-- Deployed using **Netlify & Render**
-- Sub-100ms perceived messaging latency
+♪ music playing
+⌨️  keyboard clicking
+🐛 bugs appearing
+🔥 bugs disappearing
 
-🔗 **Repository:** https://github.com/heyDev07/Quirk-App
+</div>
 
----
-
-## 💼 Experience
-
-### Eucloid Data Solutions — Data Solutions Associate Intern
-**Jan 2026 – Jun 2026 | Gurugram**
-
-- Built an end-to-end **RAG application** using Python, LangChain, Google Gemini and Pinecone.
-- Implemented document ingestion, chunking, embeddings and semantic retrieval.
-- Achieved **90%+ response accuracy across 50+ functional test cases**.
-- Automated Python-based data migration workflows, reducing manual effort by **30%**.
-- Worked with a 6-member Agile team across development, testing, deployment and client demonstrations.
-
-### Koshpal Fintech Management LLP — Software Developer Intern
-**May 2025 – Aug 2025 | Jaipur**
-
-- Built web applications for UPI transaction tracking and financial reporting.
-- Supported systems processing **1,000+ daily transactions**.
-- Developed REST APIs using Node.js, Express.js and MongoDB.
-- Delivered **3+ production features** in 2-week Agile sprints.
-- Improved page-load time by **20%** while maintaining **90%+ test coverage**.
-
----
-
-## 📊 GitHub Stats
+📊 GitHub
 
 <div align="center">
 
@@ -188,47 +135,44 @@ A real-time messaging application built with a focus on persistent conversations
 
 </div>
 
----
-
-## 🧠 Problem Solving
+🐍 My contributions
 
 <div align="center">
 
-### 800+ DSA Problems Solved
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/heyDev07/heyDev07/output/github-contribution-grid-snake-dark.svg">
 
-<a href="https://leetcode.com/u/hey_dev/">
-  <img src="https://img.shields.io/badge/LeetCode-hey__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/heyDev07/heyDev07/output/github-contribution-grid-snake.svg">
+
+<img
+ alt="github contribution snake animation"
+ src="https://raw.githubusercontent.com/heyDev07/heyDev07/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
----
-
-## 📜 Certifications
-
-- **Databricks Certified Data Engineer Associate**
-- **HackerRank SQL — Intermediate**
-
----
-
-## 🏆 Leadership
-
-**GDG LNMIIT — Management Domain Lead**
-
-Led sponsorships and partnerships for **Hackrux 1.0**, a national hackathon with **2,300+ participants and 10+ corporate sponsors**.
-
----
-
-## 📫 Let's Connect
+🏆 GitHub achievements
 
 <div align="center">
 
-<a href="mailto:295devraj@gmail.com">
-  <img src="https://img.shields.io/badge/Email-295devraj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=heyDev07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+🌐 Find me here
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/dev-agarwal-lnmiit/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dev_Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Dev%20Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:295devraj@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-295devraj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/hey_dev/">
@@ -241,12 +185,16 @@ Led sponsorships and partnerships for **Hackrux 1.0**, a national hackathon with
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=heyDev07&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+⚔️ Winter is coming.
 
-### Building → Learning → Shipping → Improving 🚀
+But first, one more commit.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
