@@ -72,10 +72,10 @@ REST APIs · WebSockets · JWT · Authentication · API Integration · Error Han
 🤖 AI / Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" title="LangChain" /> LangChain &nbsp;
-<img src="https://skillicons.dev/icons?i=pinecone" alt="Pinecone" title="Pinecone" /> Pinecone &nbsp;
-<img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" /> SQL &nbsp;
-<img src="https://skillicons.dev/icons?i=databricks" alt="Databricks" title="Databricks" /> Databricks &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
 </p>
 
 LangChain · Pinecone · RAG · LLMs · Embeddings · Semantic Search · Prompt Engineering 
